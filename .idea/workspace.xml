@@ -4,14 +4,75 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c48d308-a182-43f7-8f15-587fc336edbc" name="Changes" comment="" />
+    <list default="true" id="7c48d308-a182-43f7-8f15-587fc336edbc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/controllers/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/controllers/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/controllers/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/data/models/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/data/models/Biodata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/data/models/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/data/models/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/data/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/data/repository/AdminRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/data/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/data/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/data/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/dto/request/AdminRegistrationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/dto/request/CommentRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/dto/request/PostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/dto/request/UserRegistrationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/dto/response/AdminRegistrationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/dto/response/CommentResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/dto/response/PostResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/dto/response/UserRegistrationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/services/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/services/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/services/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/services/CommentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/services/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/services/PostServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/services/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myAmeboBlog/utilities/Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/myAmeboBlog/services/AdminServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/myAmeboBlog/services/CommentServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/myAmeboBlog/services/PostServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/myAmeboBlog/services/UserServiceImplTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2T4fDcmT8OohmJrLQJPfSRH4cFR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,20 +80,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Admin/myAmeboBlog/test/com/myAmeboBlog/services&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/ameboblog&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;c655ef6d6331c43953cafa963593825f&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.myAmeboBlog.services" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,8 +121,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690307155565</updated>
+      <workItem from="1690307157429" duration="9837000" />
+      <workItem from="1690443485742" duration="11579000" />
+      <workItem from="1691052249786" duration="2022000" />
+      <workItem from="1691074537020" duration="1875000" />
+      <workItem from="1691584230614" duration="15000" />
+      <workItem from="1691584471326" duration="1591000" />
+      <workItem from="1691590704189" duration="24000" />
+      <workItem from="1691598642262" duration="180000" />
+      <workItem from="1691599516628" duration="25000" />
+      <workItem from="1691599968095" duration="7000" />
+      <workItem from="1695218029339" duration="8293000" />
+      <workItem from="1701236632570" duration="2192000" />
+      <workItem from="1701345493091" duration="1323000" />
+      <workItem from="1702819525036" duration="1237000" />
+      <workItem from="1704369303737" duration="4763000" />
+      <workItem from="1708092933472" duration="673000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
