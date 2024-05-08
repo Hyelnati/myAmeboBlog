@@ -95,6 +95,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "spring.configuration.checksum": "c655ef6d6331c43953cafa963593825f"
   },
@@ -137,7 +140,7 @@
       <workItem from="1701345493091" duration="1323000" />
       <workItem from="1702819525036" duration="1237000" />
       <workItem from="1704369303737" duration="4763000" />
-      <workItem from="1708092933472" duration="2696000" />
+      <workItem from="1708092933472" duration="5241000" />
     </task>
     <servers />
   </component>
